@@ -55,6 +55,10 @@ let eFRandom = random(0,25);
   }
 }
 
+function windowResized(){
+  resizeCanvas(windowWidth,windowHeight);
+}
+
   
   
   
