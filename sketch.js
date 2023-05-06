@@ -3,7 +3,7 @@
 
 function setup() {
   print ("Intro to Programming1, Final Assignment, Minsu Kim, 05/06/2023")
-  createCanvas(600, 600);
+  createCanvas(windowWidth, windowHeight);
   background(0);  
 }
 
